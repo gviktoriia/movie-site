@@ -1,0 +1,9 @@
+.menuItem a {
+    color: white;
+    text-decoration: none;
+}
+
+.menuItem a.activeLink {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
