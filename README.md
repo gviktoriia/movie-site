@@ -18,11 +18,13 @@ University project with using React, Node, Express, MySql technologies and TMDB 
 
 --- 
 
-<h1>For starting the application...</h1>
- * First start the server with next commands
-`cd backend\  
-npm start  `
+<h1>For starting the application...</h1>  
 
-`cd frontend  
-npm start  `
+ * First start the server with next commands </br>
+`cd backend` </br>
+`npm start`
+
+  * Then start the frontend part in a new terminal </br>
+`cd frontend` </br>
+`npm start`
 
