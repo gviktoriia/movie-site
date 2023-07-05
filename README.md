@@ -31,11 +31,17 @@ University project with using <a href="https://developer.themoviedb.org/referenc
 
 <h1>For starting the application...</h1>  
 
- * First start the server with next commands </br>
-`cd backend` </br>
-`npm start`
+ * First start the server with next commands
+   
+```bash
+cd backend
+npm start
+```
 
-  * Then start the frontend part in a new terminal </br>
-`cd frontend` </br>
-`npm start`
+  * Then start the frontend part in a new terminal
+
+```bash
+cd frontend
+npm start
+```
 
