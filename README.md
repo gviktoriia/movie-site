@@ -1,5 +1,16 @@
-# movie-site
-University project with using React, Node, Express, MySql technologies and TMDB API.
+## Movie Web Application
+University project with using <a href="https://developer.themoviedb.org/reference/intro/getting-started">TMDB API</a>.
+
+## Languages and Tools
+<div id="tools">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" title="JavaScript" alt="JavaScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" title="Express JS" alt="Express JS"/>&nbsp;
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React" alt="React"/>&nbsp;
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" title="Material UI" alt="Material UI"/>&nbsp;
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" title="Figma" alt="Figma"/>&nbsp;
+</div>
+
+## Application Screens
 
 * Main page
 ![image](https://github.com/gviktoriia/movie-site/assets/75883183/dd84c872-517f-42ea-afad-dc21b2ce1e85)
